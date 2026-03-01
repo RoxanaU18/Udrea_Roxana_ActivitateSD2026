@@ -1,0 +1,4 @@
+1, Roxana, 9.99
+2, Maria, 8.99
+3, Georgiana, 10
+4, Madalina, 10
