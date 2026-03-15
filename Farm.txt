@@ -1,0 +1,5 @@
+3,Roxana,200.99
+4,Maria,1200.90
+6,Claudia,500.80
+5,Angela,5200.00
+9,Carmen,900.78
