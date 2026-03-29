@@ -1,0 +1,6 @@
+50,Neveste disperate,comedie,50.5
+80,Dr House,mister,45.5
+242,CSI NY,politist,60.20
+56,Supernatural,horror,45.2
+768,Merlin, aventura,40.9
+576,Prison Break,actiune,63.3
