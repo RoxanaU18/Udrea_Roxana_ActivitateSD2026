@@ -104,7 +104,7 @@ void main() {
 	}
 
 	serial s;
-	FILE* file = fopen("Filme.txt", "r");
+	FILE* file = fopen("dispersie2.txt", "r");
 	char buffer[100];
 	char sep[] = ",\n";
 	char* token;
