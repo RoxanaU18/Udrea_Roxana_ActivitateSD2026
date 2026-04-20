@@ -1,0 +1,7 @@
+10,Marriott,2,Ana,500.5
+5,Hilton,1,Ion,200.0
+15,Sheraton,3,Maria,900.75
+3,Intercontinental,2,Paul,300.0
+7,Radisson,4,Elena,700.25
+8,Ibis,1,Andrei,150.0
+12,Novotel,2,Cristina,450.5
