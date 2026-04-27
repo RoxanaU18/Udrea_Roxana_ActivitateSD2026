@@ -1,0 +1,5 @@
+1001,TAROM,2,Popescu Ion,350.5,C
+1002,WizzAir,1,Ionescu Maria,120.0,A
+1003,Ryanair,3,Georgescu Andrei,210.75,C
+1004,Lufthansa,2,Dumitrescu Elena,480.0,A
+1005,BlueAir,1,Stan Mihai,95.99,C
