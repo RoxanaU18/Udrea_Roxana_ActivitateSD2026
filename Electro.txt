@@ -1,0 +1,6 @@
+1001,Samsung,Galaxy S24,Telefon,4299.99
+1002,Apple,iPhone 15,Laptop,5999.50
+1003,LG,OLED C3,Televizor,7499.00
+1004,Sony,WH-1000XM5,Casti,1899.90
+1005,Dell,XPS 13,Laptop,6899.99
+1006,Philips,Airfryer XXL,Electrocasnic,1299.00
