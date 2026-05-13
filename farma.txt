@@ -1,0 +1,10 @@
+15, Max, 300.5, Roxana, 30, Bucuresti;
+8, Catena, 300.5, MAria, 40, Bucuresti;
+6, Max, 300.5, Ana, 30, Bucuresti;
+11, Max, 300.5, Gigi, 30, Craiova;
+13, Max, 300.5, Anemona, 30, Craiova;
+17, Max, 300.5, Carina, 40, Craiova;
+2, Max, 300.5, Andrea, 10, Timis;
+9, Max, 300.5, Andrei, 2, Timis;
+20, Max, 300.5, Toma, 6, Timis;
+12, Max, 300.5, Roxana, 8, Timis;
