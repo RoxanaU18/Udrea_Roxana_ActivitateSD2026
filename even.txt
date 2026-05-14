@@ -1,0 +1,7 @@
+1,Eveniment1,10,100.99
+2,Eveniment2,7,200.99
+3,Eveniment3,5,175.99
+4,Eveniment4,25,350.99
+5,Eveniment5,16,345.99
+6,Eveniment6,9,300.99
+7,Eveniment7,13,550.99
