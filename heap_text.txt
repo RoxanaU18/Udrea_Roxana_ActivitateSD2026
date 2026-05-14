@@ -1,0 +1,5 @@
+10,Ana,8.23
+20,Maria,8.99
+8,Andreea,10
+6,Alex,7.98
+1,Gabriel,8.44
