@@ -1,0 +1,10 @@
+101,250,Concert Pop,500
+205,120,Teatru Hamlet,300
+87,400,Festival Jazz,1000
+310,75,Stand-up Comedy,200
+150,600,Meci Fotbal,50000
+99,180,Opera Carmen,800
+412,950,Concert Pop,1200
+56,60,Piesa de Teatru,150
+278,340,Festival Film,700
+190,220,Concert Pop,400
